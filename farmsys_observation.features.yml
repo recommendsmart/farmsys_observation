@@ -1,0 +1,4 @@
+bundle: farmsys
+excluded:
+  - taxonomy.vocabulary.topic_types
+required: true
